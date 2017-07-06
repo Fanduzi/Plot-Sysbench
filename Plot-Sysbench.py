@@ -1,4 +1,4 @@
-mport charts
+import charts
 import subprocess
 import os
 class MyCharts:
