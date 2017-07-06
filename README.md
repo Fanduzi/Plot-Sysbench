@@ -245,3 +245,4 @@ res=char_1.getMulti()
 
 charts.plot(res,options=char_1.options,show='inline',)
 ```
+![image](https://github.com/Fanduzi/Plot-Sysbench/blob/master/image/Snip20170706_70.png)
