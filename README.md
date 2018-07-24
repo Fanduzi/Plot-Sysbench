@@ -1,4 +1,5 @@
 # Plot-Sysbench
+>这篇有点过时了, 现在sysbench支持输出格式为csv或json, 可以省略自己格式化的步骤了
 
 prepare
 ```
